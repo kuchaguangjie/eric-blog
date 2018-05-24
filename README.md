@@ -1,5 +1,6 @@
 # README
 
 Just blogs.
-Check the wiki part: [wiki](https://github.com/kuchaguangjie/eric-blog/wiki)
+
+Check the [wiki](https://github.com/kuchaguangjie/eric-blog/wiki) part.
 
